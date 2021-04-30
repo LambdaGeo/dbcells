@@ -12,11 +12,14 @@ excerpt: "Land change models require large amounts of data, and are difficult to
 
 ### Publications 
 
-[DBCELLS – AN OPEN AND GLOBAL MULTI-SCALE LINKED CELLS / DBCells – um Espaço Cellular Multi-Escala Global, Aberto e Conectado
+* [DBCELLS – AN OPEN AND GLOBAL MULTI-SCALE LINKED CELLS / DBCells – um Espaço Cellular Multi-Escala Global, Aberto e Conectado
 Sergio Souza Costa,	Micael Lopes Silva,	Thamyla Maria de Souza Lima,	Evaldinolia Gilbertoni Moreira](http://www.lsie.unb.br/rbc/index.php/rbc/article/view/1990)
+* [GARCIA, DEYVISON AGUIAR ; Costa, Sérgio Souza ; MOREIRA, EVALDINOLIA GILBERTONI . PUBLICAÇÃO DE DADOS CONECTADOS PARA MODELOS DE USO E COBERTURA DA TERRA. Revista Geonorte, v. 10, p. 77-94, 2019](https://www.periodicos.ufam.edu.br/index.php/revista-geonorte/article/view/5573).
+
+
 
 ### Talks
-  * [https://pt.slideshare.net/skosta/dbcells-an-open-and-global-multiscale-linked-cells]
+  * [GeoINFO 2016 - DBCELLS – AN OPEN AND GLOBAL MULTI-SCALE LINKED CELLS](https://pt.slideshare.net/skosta/dbcells-an-open-and-global-multiscale-linked-cells).
 
 ### References
 
