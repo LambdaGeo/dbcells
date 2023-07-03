@@ -7,7 +7,7 @@ Land change models require large amounts of data, and are difficult to be reprod
 
 ### Sparql Endpoint
 
-  * [https://api.triplydb.com/datasets/sergiocosta/dbcells/services/dbcells/sparql](https://api.triplydb.com/datasets/sergiocosta/dbcells/services/dbcells/sparql)
+  * [https://triplydb.com/sergiocosta/dbcells/sparql/dbcells](https://triplydb.com/sergiocosta/dbcells/sparql/dbcells)
 
 
 ### Publications 
